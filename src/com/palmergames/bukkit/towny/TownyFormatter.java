@@ -133,9 +133,9 @@ public class TownyFormatter {
 		// }
 
 		// Bank: 534 coins
-		if (TownySettings.isUsingEconomy())
+		/* if (TownySettings.isUsingEconomy())
 			if (TownyEconomyHandler.isActive())
-				out.add(Colors.Green + "Bank: " + Colors.LightGreen + resident.getHoldingFormattedBalance());
+				out.add(Colors.Green + "Bank: " + Colors.LightGreen + resident.getHoldingFormattedBalance()); */
 
 		// Town: Camelot
 		String line = Colors.Green + "Town: " + Colors.LightGreen;
