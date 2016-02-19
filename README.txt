@@ -1,3 +1,5 @@
+Edited for personal needs by Brianiac.
+
 Towny advanced is developed by ELgarL.
 
 Releases, Dev builds and all other plugins I maintain/dev are available from...
